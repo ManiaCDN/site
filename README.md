@@ -2,6 +2,14 @@
 This project contains the about website of ManiaCDN and the periodic checking logic for updating the DNS records 
 automatically when server states are changing.
 
+
+---
+
+### This project is not live, currently we are using the other two repositories for about and checker.
+
+---
+
+
 **Requirements**
 * Python 3.5+
 * Pip
